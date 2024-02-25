@@ -5,6 +5,7 @@ using namespace std;
 main(){
 	// DECLARANDO VARIABLES
 	int n1=0, n2=0, n3=0, promedio=0;
+	// mensajes
 	cout<<"Ingresa Nota 1: ";
 	cin>>n1;
 	cout<<"Ingresa Nota 2: ";

@@ -3,6 +3,7 @@
 using namespace std;
 main(){
 	
+	// prueba
 	// numero es positivo o negativoo
 	/* int num=0;
 	cout<<"Ingrese el Numero: ";
