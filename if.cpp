@@ -2,7 +2,8 @@
 #include <iostream>
 using namespace std;
 main(){
-	// numero es positivo o negativo
+	
+	// numero es positivo o negativoo
 	/* int num=0;
 	cout<<"Ingrese el Numero: ";
 	cin>>num;
