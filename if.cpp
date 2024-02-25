@@ -1,5 +1,4 @@
 // AXEL ALVAREZ
-// CARNET 7691-23-8896
 #include <iostream>
 using namespace std;
 main(){

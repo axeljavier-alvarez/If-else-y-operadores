@@ -1,7 +1,9 @@
+// AXEL JAVIER GUADALUPE ALVAREZ FELIPE
+// https://www.w3schools.com/cpp/cpp_conditions_shorthand.asp
 #include <iostream>
 using namespace std;
 main(){
-	
+	// DECLARANDO VARIABLES
 	int n1=0, n2=0, n3=0, promedio=0;
 	cout<<"Ingresa Nota 1: ";
 	cin>>n1;
